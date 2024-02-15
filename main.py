@@ -11,4 +11,4 @@ for i in range(1, 11):
     s=s+i
     print("now summ №", i, "and equals", s)
 
-print("Summ of the numbers from 1 to 100 is", s)
+print("Summ of the numbers from 1 to 10 is", s)
